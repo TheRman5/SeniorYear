@@ -1,3 +1,5 @@
+# python file to create the behavior graphs needed for this lab
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
