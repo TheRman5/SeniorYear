@@ -1,3 +1,5 @@
+# python file to modify the csv file so I am only looking at classes 1 and 2
+
 import csv
 
 input_file = "MasterExperiment.csv"
@@ -32,3 +34,4 @@ with open(input_file, newline="", encoding="utf-8") as infile, \
             kept_rows += 1
 
 print(f"Saved {kept_rows} Class 1&2 steps to {output_file}")
+
