@@ -3,6 +3,7 @@
 # Original Source found: http://web.eecs.utk.edu/~bmaclenn/Classes/420-527-S18/projects/project1/ca.html
 # Adapted by Catherine Schuman
 # January 2022
+# edited this code to complete the lab
 
 import os
 import numpy as np
